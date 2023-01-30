@@ -1,0 +1,4 @@
+pygame
+SpeechRecognition
+pyaudio
+phonetics
